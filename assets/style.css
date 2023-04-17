@@ -1,0 +1,53 @@
+#header{
+    background-size: cover;
+    background-position-y: 40%;
+    color:white;
+    background-color:rgb(83, 9, 202);
+    position:relative !important;
+    margin-bottom: 50px;
+}
+
+#header h1{
+    font-size: 400%;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    text-shadow: 3px 3px 3px black;
+}
+
+.header {
+    padding: 1rem;
+    border-radius: 0;
+}
+
+#searchCity{
+    width:80%;
+}
+
+#search-button-icon{
+    width:15px;
+    display:inline-block;
+}
+
+#currentWeather {
+    padding-left: 15px;
+}
+
+#clearStorage{
+    color:black;
+    text-decoration: none;
+    font-size:.75em;
+    margin: .5em 0em 0em .5em;
+}
+
+.weather-card{
+    width: 9rem;
+    background-color: #0752f1;
+    color: white;
+    text-align: center;
+}
+
